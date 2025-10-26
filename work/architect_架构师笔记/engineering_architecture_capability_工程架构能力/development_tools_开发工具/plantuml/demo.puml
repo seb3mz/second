@@ -1,0 +1,7 @@
+@startuml demo
+
+start
+:"开始";
+stop
+
+@enduml
